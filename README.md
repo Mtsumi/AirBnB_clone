@@ -7,6 +7,7 @@ After a 4 month period, you will have a complete web application composed of:
 3. A database or files that store data
 4. An API that provides a communication interface between the front-end and your data
 
+**But first...**
 **The console**
 - create your data model
 - manage object via a console/command interpreter
