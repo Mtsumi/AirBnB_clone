@@ -16,7 +16,7 @@ This means: from your console code and from the front-end and RestAPI you will b
 This abstraction will also allow you to change the type of storage easily without updating all of your codebase
 The console will be a tool to validate this storage engine
 
-![server_side_architecture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220803T081237Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=64e4a888949711111022a28ada6e59387f776835b677193a955d06bbd1651bbf)
+![server_side_architecture](Images/server_side_architecture.png)
 
 ##DESCRIPTION OF THE COMMAND INTERPRETER
 
