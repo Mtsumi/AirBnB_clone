@@ -18,7 +18,8 @@ The console will be a tool to validate this storage engine
 
 ![server_side_architecture](Images/server_side_architecture.png)
 
-##DESCRIPTION OF THE COMMAND INTERPRETER
+
+####DESCRIPTION OF THE COMMAND INTERPRETER
 
 The command intepreter in this case is limited to a specific use case, since we want to be able to manage the objects of our project
 - Create a new object
