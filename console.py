@@ -45,8 +45,10 @@ def parse(arg):
 
 def check_args(args):
     """checks if args is valid
+
     Args:
         args (str): the string containing the arguments passed to a command
+
     Returns:
         Error message if args is None or not a valid class, else the arguments
     """
